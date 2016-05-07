@@ -1,2 +1,2 @@
-Hello there,
-my name is Erkand Imeri, an ispiring Web  Developer
+Hello, my name is Erkand Imeri
+and i an aspiring Web Developer
