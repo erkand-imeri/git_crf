@@ -1,3 +1,2 @@
-Hello there, my name is Erkand Imeri, and i am training about Git fullfilling my freeCodeCamp waypoints.
-
-Changes for improvization!!!
+Hello there,
+my name is Erkand Imeri, an ispiring Web  Developer
